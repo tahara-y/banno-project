@@ -82,7 +82,6 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mydatabase',
         'USER': 'admin',
-        'PASSWORD': 'Aa153465377',
         'HOST': 'tahara-y-udemy-web.cintktqwup3t.ap-northeast-1.rds.amazonaws.com',
         'PORT': '3306',
     }
